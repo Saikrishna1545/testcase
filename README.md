@@ -9,7 +9,7 @@ sai krishna
   logo of northwest missouri test university
 
 # images
-Github Logo (https://upload.wikimedia.org/wikipedia/en/3/32/NW_Missouri_State_seal.png)
+[Github Logo](https://upload.wikimedia.org/wikipedia/en/3/32/NW_Missouri_State_seal.png)
 
 
 
