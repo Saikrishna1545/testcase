@@ -1,5 +1,5 @@
 # Name
-SAI KRISHNA EMMADISHETTY
+SAI KRISHNA EMMADISHETTY.
 
 ## About me
 I am an graduate student studying masters in computer science at Northwest Missouri State University.
