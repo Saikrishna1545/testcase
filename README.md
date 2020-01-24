@@ -18,9 +18,9 @@ I am an graduate student studying masters in computer science at Northwest Misso
  * Reading Bookes
  
 
-# images
-![Github Logo](https://upload.wikimedia.org/wikipedia/en/3/32/NW_Missouri_State_seal.png)
-
+# Images
+![Github Logo](https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Northwest_Missouri_State_Bearcats_logo.svg/800px-Northwest_Missouri_State_Bearcats_logo.svg.png)
+     
 
 
 
