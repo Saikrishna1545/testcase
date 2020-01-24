@@ -32,6 +32,7 @@ I am an graduate student studying masters in computer science at Northwest Misso
 * Northwest Missouri State University is a public university in Maryville, Missouri. It has an enrollment of about 7,100 students.[3] Founded in 1905 as a teachers college.The school is governed by a state-appointed Board of Regents and headed by President John Jasinski.
 
 [LinkedIn profile](https://whttps//ww.linkedin.com/in/saikrishna-emmadishetty-613014146/)
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/200px-LinkedIn_Logo_2013.svg.png)
 
 # Picture Sources
