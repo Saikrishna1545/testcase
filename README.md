@@ -19,7 +19,7 @@ I am an graduate student studying masters in computer science at Northwest Misso
  
 
 # Images
-![Github Logo](https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Northwest_Missouri_State_Bearcats_logo.svg/800px-Northwest_Missouri_State_Bearcats_logo.svg.png =250x250)
+![Github Logo](https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Northwest_Missouri_State_Bearcats_logo.svg/800px-Northwest_Missouri_State_Bearcats_logo.svg.png width="400" height="790")
      
 
 
