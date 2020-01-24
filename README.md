@@ -20,7 +20,8 @@ I am an graduate student studying masters in computer science at Northwest Misso
 
 # Images
 ![Github Logo](https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Northwest_Missouri_State_Bearcats_logo.svg/300px-Northwest_Missouri_State_Bearcats_logo.svg.png)
- The Northwest Missouri State Bearcats are the athletic teams for Northwest Missouri State University, located in Maryville, Missouri. The Bearcats play in the NCAA Division II.
+ 
+ * The Northwest Missouri State Bearcats are the athletic teams for Northwest Missouri State University, located in Maryville, Missouri. The Bearcats play in the NCAA Division II.
 
 
 ![Github Logo](https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Northwest_Missouri_State_University_logo.svg/250px-Northwest_Missouri_State_University_logo.svg.png)
