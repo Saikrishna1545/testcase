@@ -33,7 +33,7 @@ https://www.nwmissouri.edu/
 
 https://www.linkedin.com/in/saikrishna-emmadishetty-613014146/
 
-![](https://cdn.business2community.com/wp-content/uploads/2019/02/linkedin_1549994884.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LinkedIn_Logo_2013.svg/200px-LinkedIn_Logo_2013.svg.png)
 # Picture Sources
 Bearcats: https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Northwest_Missouri_State_Bearcats_logo.svg/300px-Northwest_Missouri_State_Bearcats_logo.svg.png
 
