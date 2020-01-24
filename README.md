@@ -4,6 +4,11 @@ SAI KRISHNA EMMADISHETTY.
 ## About me
 I am an graduate student studying masters in computer science at Northwest Missouri State University.
 
+## Hobbies
+ * Watching Movies
+ * Playing games
+ * Reading books
+ 
 ## Technical Skills
  1. Html
  2. Bootstrap
@@ -12,12 +17,6 @@ I am an graduate student studying masters in computer science at Northwest Misso
  5. C++
  6. MYSQL
  
- ## Hobbies
- * watching movies
- * playing games
- * Reading Books
- 
-
 # Images
 [Bearcats](https://bearcatsports.com/)
 
