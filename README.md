@@ -19,7 +19,7 @@ I am an graduate student studying masters in computer science at Northwest Misso
  
 
 # Images/Links
-https://bearcatsports.com/
+[Bearcats](https://bearcatsports.com/)
 
 ![Github Logo](https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Northwest_Missouri_State_Bearcats_logo.svg/300px-Northwest_Missouri_State_Bearcats_logo.svg.png)
  
