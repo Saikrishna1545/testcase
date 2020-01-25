@@ -2,7 +2,7 @@
 SAI KRISHNA EMMADISHETTY.
 
 ## About me
-I am an graduate student studying masters in computer science at Northwest Missouri State University.
+ studying masters in computer science at Northwest Missouri State University.
 
 ## Hobbies
  * Watching Movies
